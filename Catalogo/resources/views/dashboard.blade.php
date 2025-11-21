@@ -10,7 +10,7 @@
                 titulo="Dom Casmurro" 
                 autor="Machado de Assis" 
                 ano="1899" 
-                editora="Editora Carambaia" 
+                editora="Carambaia" 
                 paginas="256" 
                 imagem="{{ asset('images/livros/domCas.jpg') }}"
             />
@@ -20,7 +20,7 @@
                 titulo="O Pequeno Príncipe" 
                 autor="Antoine de Saint-Exupéry" 
                 ano="1943" 
-                editora="Editora Arqueiro" 
+                editora="Arqueiro" 
                 paginas="96" 
                 imagem="{{ asset('images/livros/peqPrin.jpg') }}"
             />
@@ -30,7 +30,7 @@
                 titulo="1984" 
                 autor="George Orwell" 
                 ano="1949" 
-                editora="Editora Companhia das Letras" 
+                editora="Companhia das Letras" 
                 paginas="328" 
                 imagem="{{ asset('images/livros/1984.jpg') }}"            
             />
